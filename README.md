@@ -12,8 +12,8 @@
 I am an **Electronics Engineering Specialist** (D4 graduate from Politeknik Elektronika Negeri Surabaya) passionate about **Embedded Systems, IoT, Automation, and Networking**. Experienced in hardware-software troubleshooting, fiber optic technologies, and smart IoT device prototyping.
 
 - 🎓 **Education:** 
-  - D4 Electronics Engineering @ **PENS** (IPK: 3.31)
-  - D3 Computer Engineering @ **POLIJE** (IPK: 3.72)
+  - D4 Electronics Engineering @ **POLITEKNIK ELEKTRONIKA NEGERI SURABAYA** (IPK: 3.31)
+  - D3 Computer Engineering @ **POLITEKNIK NEGERI JEMBER** (IPK: 3.72)
 - 💼 **Experience:** Ex-Access & Backbone Engineer Intern @ **PT. Supra Primatama Nusantara (Biznet)**
 - 🏅 **Certification:** Mobile Computing Utama (BNSP) | Network Operation (Biznet)
 
@@ -40,20 +40,10 @@ I am an **Electronics Engineering Specialist** (D4 graduate from Politeknik Elek
 
 ---
 
-### 🚀 Featured IoT Projects
+### 🚀 Featured Projects
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
 | **Smart Door Lock System** | Raspberry Pi, IoT, Telegram Bot, Face Recognition | Automated door lock system with facial recognition and real-time remote control/alerts via Telegram. |
 | **Smart Cane for Visually Impaired** | Ultrasonic Sensor, GPS, GSM Module, Arduino/ESP | IoT smart cane detecting obstacles via ultrasonic buzzer and sending real-time GPS coordinates via SMS. |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
----
-*✨ Feel free to connect with me for opportunities or collaborations in Embedded Systems, IoT, and Networking!*
+| **Location-Based Selfie Attendance** | Laravel, PHP, MySQL, Geolocation API | Mobile attendance application featuring real-time GPS tracking and selfie photo verification for employees. |
